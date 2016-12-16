@@ -1,3 +1,4 @@
+/* globals require, module */
 /* exported Query */
 
 /**
