@@ -12,7 +12,7 @@ describe("Query", function() {
 
   describe("clientQuery", function() {
     it("should fail on a failure", function() {
-      expect(1 + 1).toBe(2);
+      expect(1 + 1).toBe(3);
     });
 
     it("builds a query for a router and metric and all client", function() {
